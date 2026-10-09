@@ -1,0 +1,3 @@
+interface:
+  display_name: "全风格角色提示词架构师"
+  short_description: "按媒介和风格生成、拆解与延展中文角色图像提示词"
